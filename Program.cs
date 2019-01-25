@@ -18,8 +18,8 @@ namespace Dotnet_P01
         {
             var name= "";
             var ch=0;
-            var kgcnvr=2.204;
-            var poundcnvr=0.453;
+            var kgcnvr=2.204m;
+            var poundcnvr=0.453m;
             var kgcount=0.0;
             var poundcount=0.0;
             var kgsTotal=0.0;
